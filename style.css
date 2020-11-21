@@ -1,0 +1,30 @@
+header {
+    background-color: darkslategrey;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: inline;
+    border-radius: .25rem;
+    border: 1px solid #ced4da;
+    height: 30px;
+}
+
+#forecast {
+    display: inline;
+}
+
+.container {
+    margin-right: 0px;
+    margin-left: 0px;
+    max-width: none;
+}
