@@ -1,17 +1,21 @@
+/* Header style */
 header {
     background-color: darkslategrey;
 }
 
+/* h1 style */
 h1 {
     text-align: center;
     color: white;
     padding: 15px;
 }
 
+/* Label style */
 label {
     display: block;
 }
 
+/* Input style */
 input {
     display: inline;
     border-radius: .25rem;
@@ -19,12 +23,15 @@ input {
     height: 30px;
 }
 
+/* Forecast cards style */
 #forecast {
     display: inline;
 }
 
+/* Container style */
 .container {
     margin-right: 0px;
     margin-left: 0px;
     max-width: none;
 }
+ 
