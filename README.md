@@ -10,8 +10,31 @@ Below is a screenshoot of the page with a full search history:
 
 ![weather dashboard](./images/weather-dashboard.png)
 
+Below is a screenshot of the page before a city name is entered in:
+
+![weather dashboard](./images/weather-dashboard-blank.png)
+
+Below is a screenshot of the page after the very first search:
+
+![weather dashboard](./images/weather-dashboard-first-search.png)
+
+## Technologies Used
+
+* HTML
+* CSS
+* Bootstrap
+* Fontawesome
+* jQuery
+* Ajax
+* JavaScript
+* openweathermap.org API
+
 ## URL
 
 Here is a link to the live website:
 
 https://chavalk.github.io/weather-dashboard/
+
+## Contact Information
+
+Email: chavalk@hotmail.com
