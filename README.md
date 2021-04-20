@@ -33,6 +33,7 @@ https://chavalk.github.io/weather-dashboard/
 * JavaScript
 * Open Weather API
 * Moment.js
+* GitHub Pages
 
 ## Where users can get help with your project
 
