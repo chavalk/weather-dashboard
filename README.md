@@ -1,40 +1,47 @@
-# weather-dashboard
+# Weather-Dashboard
 
-This assignment consisted of creating a weather dashboard. Initially the page is completely blank with only the layout showing up until a city is searched. Once a city is searched the current weather is populated along with the five day forecast. The name of the city is saved to an array which is then used to add the name of the city to the search history. The search history is populated from the array.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The API used to get the weather data is the Open Weather API. A call is made for an object containing all the data for the city specified by the user. From the object, only certain parameters are gathered and displayed to the user.
+## Description
 
-The Moment library is used to display the current date and to display the date for the forecast. Bootstrap was used to generate the layout of the page and JQuery is primarily used to add the information to each of the HTML sections from the object obtained through the API.
+An application designed to allow users to search for the current weather and forecast in any city.
 
-Below is a screenshoot of the page with a full search history:
+## What the project does
 
-![weather dashboard](./images/weather-dashboard.png)
+The project allows users to search for weather conditions in any city of their choosing. The application provides the current weather conditions for that city as well as the the five day forecast for that city. The application keeps track of the recently searched cities. Below is a GIF showing the navigation of the application.
 
-Below is a screenshot of the page before a city name is entered in:
+![weather-dashboard](./images/weather-dashboard.gif)
 
-![weather dashboard](./images/weather-dashboard-blank.png)
+## Why is the project useful
 
-Below is a screenshot of the page after the very first search:
+The project provides an easy way for users to search weather conditions world wide. It also allows them to find the five day forecast of any city they search world wide.
 
-![weather dashboard](./images/weather-dashboard-first-search.png)
+## How users can get started with the project
 
-## Technologies Used
+Simply navigate to the deployed version of the application listed below to interact with it.
 
-* HTML
-* CSS
+https://chavalk.github.io/weather-dashboard/
+
+## What technologies were used with the project
+
+* HTML5
+* CSS3
 * Bootstrap
 * Fontawesome
 * jQuery
 * Ajax
 * JavaScript
-* openweathermap.org API
+* Open Weather API
+* Moment.js
 
-## URL
+## Where users can get help with your project
 
-Here is a link to the live website:
+My GitHub username is: chavalk
 
-https://chavalk.github.io/weather-dashboard/
+Link: https://github.com/chavalk
 
-## Contact Information
+If you have additional questions, feel free to reach me at chavalk@hotmail.com.
 
-Email: chavalk@hotmail.com
+## Who maintains and contributes to the project
+
+Currently I'm the only person maintaining and contributing to the project.
